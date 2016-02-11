@@ -1,6 +1,6 @@
 {
   "name": "fancy-hr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yield a fancy &lt;hr /&gt; in Node applications.",
   "license": "MIT",
   "repository": "egoist/fancy-hr",
